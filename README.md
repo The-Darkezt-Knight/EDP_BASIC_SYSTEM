@@ -1,9 +1,9 @@
-[1] Download the folder and sql file.
-[2] Extract the PHP file and place it in xampp > htdocs
-[3] Run your XAMPP control panel and make sure MySql and Apache are both running.
-[4] In your localhost, import Auth.sql
-[5] run the index.php by simply typing the localhost/
-[6] Perhaps, it's xampp > htdocs > EDP_basic_system> php > index.php
+[1] Download the folder and sql file,
+[2] Extract the PHP file and place it in xampp > htdocs,
+[3] Run your XAMPP control panel and make sure MySql and Apache are both running,
+[4] In your localhost, import Auth.sql,
+[5] run the index.php by simply typing the localhost/,
+[6] Perhaps, it's xampp > htdocs > EDP_basic_system> php > index.php,
 
 http://localhost/Projects/EDP_basic_system/php/
 
